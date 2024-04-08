@@ -1,7 +1,6 @@
 # Q2TG
 QQ 群与 Telegram 群相互转发的 bot
 
-交流 https://t.me/+XkF-96lLnFU3ZTM1
 
 ## 安装方法
 
